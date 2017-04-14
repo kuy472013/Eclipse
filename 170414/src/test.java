@@ -4,5 +4,6 @@ public class test {
 		System.out.println("Hello JAVA World");
 		System.out.println("HI");
 		System.out.println("±è¿ì¿µ");
+		System.out.println("¿ì¿Í");
 	}
 }
