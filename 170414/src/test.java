@@ -5,5 +5,6 @@ public class test {
 		System.out.println("HI");
 		System.out.println("±è¿ì¿µ");
 		System.out.println("¿ì¿Í");
+		System.out.println("commit and push");
 	}
 }
